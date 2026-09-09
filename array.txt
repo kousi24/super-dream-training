@@ -256,3 +256,80 @@ Expected:
           ↑
         new
 
+Why shifting is needed?
+
+Before:
+
+10   20   30   40
+          ↓    ↓
+         shift right
+
+After:
+
+10   20   25   30   40
+          ↑
+       inserted
+
+
+One more VERY important point
+
+Java array has fixed size.
+
+int[] arr = new int[5];
+
+
+Insertion outline
+ARRAY INSERTION
+      ↓
+Choose position
+      ↓
+Check available space
+      ↓
+Shift elements RIGHT
+      ↓
+Place new element
+      ↓
+Size increases by 1
+
+
+
+What happens?
+
+Index 0 already contains 10.
+
+So all existing elements must shift one position to the right.
+
+Before:
+
+Index:  0   1   2   3   4
+Value: 10  20  30  40   _
+Step 1 — Shift 40
+10  20  30  40  40
+Step 2 — Shift 30
+10  20  30  30  40
+Step 3 — Shift 20
+10  20  20  30  40
+Step 4 — Shift 10
+10  10  20  30  40
+Step 5 — Put 5 at index 0
+5  10  20  30  40
+
+
+
+Main logic
+
+For beginning insertion:
+
+Start from LAST element
+        ↓
+Move each element RIGHT
+        ↓
+Stop at index 0
+        ↓
+arr[0] = new element
+
+
+
+Shifting always happens from right → left.
+
+
