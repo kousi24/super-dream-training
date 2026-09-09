@@ -53,5 +53,24 @@ linear search and binary serach
 
 
                        linear search
-it checks one by one element to until it archieve the target
+it checks one by one element to until it archieve the target.
+Why is it called Linear Search?
+
+Because we're moving in a straight sequence:
+                           program
+public class Main {
+    public static void main(String[] args) {
+
+        int[] n = {1, 2, 34, 5, 6, 7, 8, 9, 10};
+        int target = 10;
+
+        for (int i = 0; i < n.length; i++) {
+
+            if (n[i] == target) {
+                System.out.println(i);
+                break;
+            }
+        }
+    }
+}
                  
