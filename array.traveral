@@ -1,6 +1,6 @@
 what is traversal?
 it checks or read the elements one by one.
-                                    BASIC PROGRAM
+                                    forward PROGRAM
 public class Main{
   public static void main(String[] args){
       int[] n={1,2,3,4,5,6};
@@ -15,5 +15,43 @@ OUTPUT:
 3
 4
 5
+               Traversal + Maximum
+public class Main {
+    public static void main(String[] args) {
 
-                                       
+        int[] arr = {10, 40, 20, 70, 30};
+
+        int max = arr[0];
+
+        for (int i = 1; i < arr.length; i++) {
+
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+
+        System.out.println(max);
+    }
+}
+
+              Traversal + Minimum.
+int[] arr = {40, 10, 30, 5, 20};
+
+int min = arr[0];
+
+for (int i = 1; i < arr.length; i++) {
+    if (arr[i] < min) {
+        min = arr[i];
+    }
+}
+
+System.out.println(min);
+                        search
+there are two types:
+linear search and binary serach
+
+
+
+                       linear search
+it checks one by one element to until it archieve the target
+                 
