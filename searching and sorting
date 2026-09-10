@@ -1,0 +1,80 @@
+linear search:
+public class Main{
+    public static void main(String[] args){
+        int[] ar={1,2,3,4,5};
+        int target=4;
+        for(int i=0;i<ar.length;i++){
+            if(ar[i]==target){
+                System.out.println(ar[i]);
+                return;
+            }
+        }
+        System.out.println("not found");
+    }
+}
+algorithm:
+1. Start from the first element.
+2. Compare the current element with the target.
+3. If they are equal → Target found.
+4. If they are not equal → Move to the next element.
+5. Repeat until the target is found or the array ends.
+6. If the array ends → Target not found.
+
+binary search:What is Binary Search?
+
+Binary Search searches for an element by repeatedly checking the middle element and eliminating half of the remaining elements.
+
+public class Main{
+    public static void main(String[] args){
+        int[] ar={1,2,3,4,5};
+        int target=2;
+        int low=0;
+        int high=ar.length-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(ar[mid]==target){
+                System.out.println("found"+ar[mid]);
+                return;
+            }
+            else if(target>ar[mid]){
+               low=mid+1;
+            }
+            else{
+                high=mid-1;
+            }
+        }
+    }
+}                                                      
+    
+              Binary Search
+                    ↓
+             Find middle
+                    ↓
+          ┌─────────┼─────────┐
+          ↓         ↓         ↓
+       Smaller     Equal    Greater
+          ↓         ↓         ↓
+        LEFT      FOUND     RIGHT
+          ↓                   ↓
+   high = mid - 1       low = mid + 1         
+
+ target < arr[mid]  → LEFT
+target == arr[mid] → FOUND
+target > arr[mid]  → RIGHT
+
+
+
+
+int result = linearSearch(arr, target);
+
+if (result != -1) {
+    System.out.println("Found at index " + result);
+} else {
+    System.out.println("Not found");
+}
+
+
+
+What is Selection Sort?
+
+Selection Sort repeatedly finds the smallest element from the unsorted part and places it at the correct position.
