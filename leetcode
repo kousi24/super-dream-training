@@ -78,3 +78,20 @@ class Solution {
             nums[pos++] = 0;
     }
 }
+
+class Solution {
+    public void duplicateZeros(int[] arr) {
+        int[] temp = arr.clone();
+
+        int j = 0;
+
+        for (int x : temp) {
+            if (j >= arr.length) break;
+
+            arr[j++] = x;
+
+            if (x == 0 && j < arr.length)
+                arr[j++] = 0;
+        }
+    }
+}
