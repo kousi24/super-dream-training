@@ -156,6 +156,26 @@ class Solution {
     }
 
 }
+
+leetcode:2129
+class Solution {
+    public String capitalizeTitle(String title) {
+        String[] words = title.toLowerCase().split(" ");
+        String ans = "";
+
+        for (String word : words) {
+            if (word.length() <= 2) {
+                ans += word;
+            } else {
+                ans += Character.toUpperCase(word.charAt(0))
+                        + word.substring(1);
+            }
+            ans += " ";
+        }
+
+        return ans.trim();
+    }
+}
 leetcoe:2000
 class Solution {
     public String reversePrefix(String word, char ch) {
