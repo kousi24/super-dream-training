@@ -156,3 +156,18 @@ class Solution {
     }
 
 }
+leetcoe:2000
+class Solution {
+    public String reversePrefix(String word, char ch) {
+        int index = word.indexOf(ch);
+
+        if (index == -1)
+            return word;
+
+        StringBuilder ans = new StringBuilder(word.substring(0, index + 1));
+        ans.reverse();
+
+        return ans + word.substring(index + 1);
+    }
+}
+leetcode:
