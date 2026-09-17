@@ -190,4 +190,17 @@ class Solution {
         return ans + word.substring(index + 1);
     }
 }
-leetcode:
+
+
+leetcoe:434
+class Solution {
+    public int countSegments(String s) {
+        String[] words=s.trim().split("\\s+");
+        if(s.trim().isEmpty()){
+            return 0;
+        }
+        return words.length;
+    }
+}
+
+
