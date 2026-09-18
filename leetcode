@@ -242,4 +242,24 @@ class Solution {
     }
 }
 
+leetcode:700
+class Solution {
+    public String toLowerCase(String s) {
+        return s.toLowerCase.s();
+    }
+}
+
+leetcode:771
+class Solution {
+    public int numJewelsInStones(String jewels, String stones) {
+        int count = 0;
+
+        for (char c : stones.toCharArray()) {
+            if (jewels.indexOf(c) != -1)
+                count++;
+        }
+
+        return count;
+    }
+}
 
