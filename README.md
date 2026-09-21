@@ -79,6 +79,21 @@ newNode.data = 5;
 newNode.next = head;
 head = newNode;
 
+END:
+CURRENT:10 → 20 → 30 → null
+DELETE:10 → 20 → 30 → 40 → null
+
+CODE:Node newNode = new Node();
+newNode.data = 40;
+
+Node current = head;
+
+while (current.next != null) {
+    current = current.next;
+}
+
+current.next = newNode;
+
 
 
 
