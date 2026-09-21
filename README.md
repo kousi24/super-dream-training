@@ -13,3 +13,19 @@ arr[0]	head
 Index based	Node based
 Fixed/resize costly	Dynamic
 Direct access easy	Sequential traversal
+
+
+Head → first node
+head
+ ↓
+10 → 20 → 30 → null
+
+TEMORARY HEAD TO TRAVERSE:
+
+ListNode current = head;
+
+while (current != null) {
+    System.out.println(current.val);
+    current = current.next;
+}
+
