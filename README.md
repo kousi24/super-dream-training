@@ -94,10 +94,20 @@ while (current.next != null) {
 
 current.next = newNode;
 
+INSERT SPECIFIC POSITION:
+Node newNode = new Node();
+newNode.data = 25;
 
+Node current = head;
 
+for (int i = 1; i < position; i++) {
+    current = current.next;
+}
 
+newNode.next = current.next;
+current.next = newNode;
 
+ 
 
 
 
