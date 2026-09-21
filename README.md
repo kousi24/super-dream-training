@@ -68,5 +68,22 @@ while (current != null) {
 }
 
 
-}
+INSERT:
+CURRENT:10 → 20 → 30 → null
+INSERT:5 → 10 → 20 → 30 → null
+
+CODE:
+Node newNode = new Node();
+newNode.data = 5;
+
+newNode.next = head;
+head = newNode;
+
+
+
+
+
+
+
+
 
