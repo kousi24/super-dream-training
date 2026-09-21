@@ -107,6 +107,19 @@ for (int i = 1; i < position; i++) {
 newNode.next = current.next;
 current.next = newNode;
 
+SEARCH IN LINKEDLIST:
+boolean search(Node head, int value) {
+    Node current = head;
+
+    while (current != null) {
+        if (current.data == value)
+            return true;
+
+        current = current.next;
+    }
+
+    return false;
+}
 
 
 
