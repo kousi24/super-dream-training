@@ -550,6 +550,36 @@ class Solution {
         return count;
     }
 }
+LEETCODE:2007
+class Solution {
+    public int[] findOriginalArray(int[] changed) {
+        if (changed.length % 2 != 0) return new int[0];
 
+        Arrays.sort(changed);
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int x : changed)
+            map.put(x, map.getOrDefault(x, 0) + 1);
+
+        int[] ans = new int[changed.length / 2];
+        int idx = 0;
+
+        for (int x : changed) {
+            if (map.get(x) == 0) continue;
+
+            if (map.getOrDefault(x * 2, 0) == 0)
+                return new int[0];
+
+            ans[idx++] = x;
+            map.put(x, map.get(x) - 1);
+            map.put(x * 2, map.get(x * 2) - 1);
+        }
+
+        return ans;
+    }
+}
+
+
+LEETCODE:
 
 
