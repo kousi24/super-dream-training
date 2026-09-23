@@ -207,4 +207,12 @@ while (current != null) {
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
