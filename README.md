@@ -152,6 +152,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -178,4 +179,8 @@ while (current != null) {
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
