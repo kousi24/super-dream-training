@@ -151,13 +151,31 @@ while (current != null) {
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
