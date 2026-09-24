@@ -166,6 +166,7 @@ while (current != null) {
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/kousi24/super-dream-training/tree/master/0520-detect-capital) |
 ## Divide and Conquer
 |  |
 | ------- |
