@@ -219,5 +219,6 @@ while (current != null) {
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/kousi24/super-dream-training/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kousi24/super-dream-training/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
