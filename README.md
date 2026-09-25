@@ -288,3 +288,35 @@ dp[3][1]
 means:
 
 Number of permutations of [1,2,3] having exactly 1 inverse pair.
+3. What happens when we add a new number?
+
+Suppose we already have:
+
+[1, 2, 3]
+
+Now we add 4.
+
+Where we place 4 determines how many new inverse pairs it creates:
+
+4 at the end       → 0 new pairs
+4 before 3         → 1 new pair
+4 before 2,3       → 2 new pairs
+4 at the beginning → 3 new pairs
+
+So when adding number i, it can create:
+
+0, 1, 2, ..., i-1
+
+new inverse pairs.
+
+Therefore:
+
+dp[i][j]
+
+comes from:
+
+dp[i-1][j]
+dp[i-1][j-1]
+dp[i-1][j-2]
+...
+dp[i-1][j-(i-1)]
