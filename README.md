@@ -168,6 +168,7 @@ while (current != null) {
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/kousi24/super-dream-training/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/kousi24/super-dream-training/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0564-find-the-closest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0564-find-the-closest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +226,7 @@ while (current != null) {
 | ------- |
 | [0507-perfect-number](https://github.com/kousi24/super-dream-training/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
+| [0564-find-the-closest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0564-find-the-closest-palindrome) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kousi24/super-dream-training/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
