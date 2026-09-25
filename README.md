@@ -271,3 +271,20 @@ Example:
 [2, 1, 3]
 
 2 > 1, so there is 1 inverse pair.
+2. Main DP Concept
+
+We define:
+
+dp[i][j]
+
+as:
+
+The number of ways to arrange i numbers so that there are exactly j inverse pairs.
+
+For example:
+
+dp[3][1]
+
+means:
+
+Number of permutations of [1,2,3] having exactly 1 inverse pair.
