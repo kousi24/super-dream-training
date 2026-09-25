@@ -190,6 +190,7 @@ while (current != null) {
 | ------- |
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/kousi24/super-dream-training/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Depth-First Search
 |  |
 | ------- |
