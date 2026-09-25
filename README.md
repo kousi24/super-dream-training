@@ -258,3 +258,16 @@ while (current != null) {
 
 
 
+What is an Inverse Pair?
+
+For an array, a pair (i, j) is an inverse pair when:
+
+i < j
+but
+nums[i] > nums[j]
+
+Example:
+
+[2, 1, 3]
+
+2 > 1, so there is 1 inverse pair.
