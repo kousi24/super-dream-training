@@ -200,6 +200,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 ## Design
 |  |
 | ------- |
@@ -245,6 +246,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +272,14 @@ while (current != null) {
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
 
 
