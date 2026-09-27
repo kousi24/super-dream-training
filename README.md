@@ -200,6 +200,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kousi24/super-dream-training/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -249,6 +250,7 @@ while (current != null) {
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kousi24/super-dream-training/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -263,10 +265,12 @@ while (current != null) {
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kousi24/super-dream-training/tree/master/0515-find-largest-value-in-each-tree-row) |
