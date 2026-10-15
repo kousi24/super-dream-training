@@ -161,6 +161,7 @@ while (current != null) {
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0999-available-captures-for-rook](https://github.com/kousi24/super-dream-training/tree/master/0999-available-captures-for-rook) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kousi24/super-dream-training/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ while (current != null) {
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
 ## String
 |  |
 | ------- |
