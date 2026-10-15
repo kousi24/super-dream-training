@@ -263,6 +263,7 @@ while (current != null) {
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0564-find-the-closest-palindrome) |
+| [1006-clumsy-factorial](https://github.com/kousi24/super-dream-training/tree/master/1006-clumsy-factorial) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kousi24/super-dream-training/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -358,10 +359,12 @@ while (current != null) {
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/kousi24/super-dream-training/tree/master/0999-available-captures-for-rook) |
+| [1006-clumsy-factorial](https://github.com/kousi24/super-dream-training/tree/master/1006-clumsy-factorial) |
 ## Stack
 |  |
 | ------- |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1006-clumsy-factorial](https://github.com/kousi24/super-dream-training/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
 
 
