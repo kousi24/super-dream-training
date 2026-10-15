@@ -154,6 +154,7 @@ while (current != null) {
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -162,6 +163,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
@@ -180,15 +182,18 @@ while (current != null) {
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -300,6 +305,7 @@ while (current != null) {
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String Matching
 |  |
@@ -322,6 +328,14 @@ while (current != null) {
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 
 
