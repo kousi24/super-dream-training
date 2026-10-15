@@ -185,6 +185,7 @@ while (current != null) {
 | [0521-longest-uncommon-subsequence-i](https://github.com/kousi24/super-dream-training/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0564-find-the-closest-palindrome) |
 | [1002-find-common-characters](https://github.com/kousi24/super-dream-training/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +351,10 @@ while (current != null) {
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/kousi24/super-dream-training/tree/master/0999-available-captures-for-rook) |
+## Stack
+|  |
+| ------- |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 <!---LeetCode Topics End-->
 
 
