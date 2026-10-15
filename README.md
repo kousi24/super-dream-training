@@ -163,6 +163,7 @@ while (current != null) {
 | [1000-minimum-cost-to-merge-stones](https://github.com/kousi24/super-dream-training/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/kousi24/super-dream-training/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@ while (current != null) {
 | [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -335,6 +338,7 @@ while (current != null) {
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kousi24/super-dream-training/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
