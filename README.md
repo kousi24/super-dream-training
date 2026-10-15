@@ -166,6 +166,7 @@ while (current != null) {
 | [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/kousi24/super-dream-training/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ while (current != null) {
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kousi24/super-dream-training/tree/master/0623-add-one-row-to-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ while (current != null) {
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -310,6 +313,7 @@ while (current != null) {
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kousi24/super-dream-training/tree/master/0623-add-one-row-to-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -367,6 +371,11 @@ while (current != null) {
 | ------- |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/kousi24/super-dream-training/tree/master/1006-clumsy-factorial) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
 
 
