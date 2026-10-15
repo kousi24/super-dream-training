@@ -165,6 +165,7 @@ while (current != null) {
 | [1002-find-common-characters](https://github.com/kousi24/super-dream-training/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/kousi24/super-dream-training/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@ while (current != null) {
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/kousi24/super-dream-training/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Sliding Window
 |  |
 | ------- |
