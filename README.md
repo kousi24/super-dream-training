@@ -164,6 +164,7 @@ while (current != null) {
 | [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/kousi24/super-dream-training/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/kousi24/super-dream-training/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ while (current != null) {
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +312,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Sliding Window
 |  |
 | ------- |
