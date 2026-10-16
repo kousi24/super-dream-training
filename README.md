@@ -157,6 +157,7 @@ while (current != null) {
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kousi24/super-dream-training/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -220,6 +221,7 @@ while (current != null) {
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/kousi24/super-dream-training/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/kousi24/super-dream-training/tree/master/0629-k-inverse-pairs-array) |
