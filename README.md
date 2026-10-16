@@ -218,6 +218,7 @@ while (current != null) {
 | ------- |
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/kousi24/super-dream-training/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/kousi24/super-dream-training/tree/master/0629-k-inverse-pairs-array) |
@@ -278,6 +279,7 @@ while (current != null) {
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -321,6 +323,7 @@ while (current != null) {
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/kousi24/super-dream-training/tree/master/1007-minimum-domino-rotations-for-equal-row) |
@@ -384,6 +387,7 @@ while (current != null) {
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/kousi24/super-dream-training/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
 
