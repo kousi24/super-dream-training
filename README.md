@@ -159,6 +159,7 @@ while (current != null) {
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -259,6 +260,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0999-available-captures-for-rook](https://github.com/kousi24/super-dream-training/tree/master/0999-available-captures-for-rook) |
 ## Linked List
 |  |
@@ -307,6 +309,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/kousi24/super-dream-training/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kousi24/super-dream-training/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -349,6 +352,7 @@ while (current != null) {
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kousi24/super-dream-training/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String Matching
 |  |
