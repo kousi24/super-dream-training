@@ -160,6 +160,7 @@ while (current != null) {
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -228,6 +229,7 @@ while (current != null) {
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/kousi24/super-dream-training/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/kousi24/super-dream-training/tree/master/0629-k-inverse-pairs-array) |
@@ -319,6 +321,7 @@ while (current != null) {
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
@@ -342,6 +345,7 @@ while (current != null) {
 | ------- |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/kousi24/super-dream-training/tree/master/1007-minimum-domino-rotations-for-equal-row) |
@@ -372,6 +376,7 @@ while (current != null) {
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kousi24/super-dream-training/tree/master/1000-minimum-cost-to-merge-stones) |
