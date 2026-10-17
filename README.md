@@ -163,6 +163,7 @@ while (current != null) {
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kousi24/super-dream-training/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/kousi24/super-dream-training/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/kousi24/super-dream-training/tree/master/0427-construct-quad-tree) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
@@ -244,6 +245,7 @@ while (current != null) {
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kousi24/super-dream-training/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/kousi24/super-dream-training/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/kousi24/super-dream-training/tree/master/0629-k-inverse-pairs-array) |
@@ -468,6 +470,14 @@ while (current != null) {
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
 
 
