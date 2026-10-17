@@ -162,6 +162,7 @@ while (current != null) {
 | [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kousi24/super-dream-training/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/kousi24/super-dream-training/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/kousi24/super-dream-training/tree/master/0427-construct-quad-tree) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
@@ -221,6 +222,7 @@ while (current != null) {
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/kousi24/super-dream-training/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kousi24/super-dream-training/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting
