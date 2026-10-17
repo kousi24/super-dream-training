@@ -169,6 +169,7 @@ while (current != null) {
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0999-available-captures-for-rook](https://github.com/kousi24/super-dream-training/tree/master/0999-available-captures-for-rook) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kousi24/super-dream-training/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
@@ -192,6 +193,7 @@ while (current != null) {
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kousi24/super-dream-training/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1001-grid-illumination](https://github.com/kousi24/super-dream-training/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/kousi24/super-dream-training/tree/master/1002-find-common-characters) |
 ## String
@@ -218,6 +220,7 @@ while (current != null) {
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kousi24/super-dream-training/tree/master/0427-construct-quad-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ while (current != null) {
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kousi24/super-dream-training/tree/master/0623-add-one-row-to-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -366,6 +370,7 @@ while (current != null) {
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kousi24/super-dream-training/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/kousi24/super-dream-training/tree/master/0623-add-one-row-to-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
