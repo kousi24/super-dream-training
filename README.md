@@ -183,6 +183,7 @@ while (current != null) {
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
@@ -198,6 +199,7 @@ while (current != null) {
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kousi24/super-dream-training/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/kousi24/super-dream-training/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/kousi24/super-dream-training/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -327,6 +329,7 @@ while (current != null) {
 | [0404-sum-of-left-leaves](https://github.com/kousi24/super-dream-training/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/kousi24/super-dream-training/tree/master/0407-trapping-rain-water-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kousi24/super-dream-training/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kousi24/super-dream-training/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -449,6 +452,10 @@ while (current != null) {
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0432-all-oone-data-structure) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
 
 
