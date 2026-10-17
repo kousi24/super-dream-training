@@ -243,6 +243,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0404-sum-of-left-leaves](https://github.com/kousi24/super-dream-training/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/kousi24/super-dream-training/tree/master/0513-find-bottom-left-tree-value) |
@@ -274,6 +275,7 @@ while (current != null) {
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kousi24/super-dream-training/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -439,6 +441,10 @@ while (current != null) {
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
 
 
