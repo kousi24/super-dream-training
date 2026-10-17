@@ -200,6 +200,7 @@ while (current != null) {
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/kousi24/super-dream-training/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/kousi24/super-dream-training/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/kousi24/super-dream-training/tree/master/0521-longest-uncommon-subsequence-i) |
