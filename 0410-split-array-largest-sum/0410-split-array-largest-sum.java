@@ -1,44 +1,34 @@
-class Solution {
-
-    public boolean canFit(int[] nums, int perK, int k){
-        int count = 1;
-        int sum = 0;
-        for(int num : nums){
-            if((sum+num)>perK){
-                count++;
-                sum = num;
-            }
-            else{
-                sum += num;
-            }
-        }
-        return count <= k;
-    }
-
+public class Solution {
     public int splitArray(int[] nums, int k) {
-        int n = nums.length;
-        int min = Integer.MIN_VALUE;
-        int max = 0;
-        if(n < k){
-            return 0;
+        int low = 0, high = 0;
+        for (int num : nums) {
+            low = Math.max(low, num);
+            high += num;
         }
-        for(int num : nums){
-            min = Math.max(min, num);
-            max += num;
-        }
-
-        int soln = 0;
-        while(min <= max){
-            int mid = min + (max-min)/2;
-            if(canFit(nums, mid, k)){
-                soln = mid;
-                max = mid-1;
-            }
-            else{
-                min = mid + 1;
+        int ans = high;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (isFeasible(nums, mid, k)) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
-
-        return soln;
+        return ans;
+    }
+    
+    private boolean isFeasible(int[] nums, int maxSum, int k) {
+        int count = 1;
+        int currentSum = 0;
+        for (int num : nums) {
+            currentSum += num;
+            if (currentSum > maxSum) {
+                count++;
+                currentSum = num;
+                if (count > k) return false;
+            }
+        }
+        return true;
     }
 }
