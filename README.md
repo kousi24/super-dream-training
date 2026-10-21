@@ -172,6 +172,7 @@ while (current != null) {
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kousi24/super-dream-training/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/kousi24/super-dream-training/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/kousi24/super-dream-training/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -383,6 +384,7 @@ while (current != null) {
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kousi24/super-dream-training/tree/master/0450-delete-node-in-a-bst) |
+| [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kousi24/super-dream-training/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kousi24/super-dream-training/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kousi24/super-dream-training/tree/master/0538-convert-bst-to-greater-tree) |
@@ -474,12 +476,14 @@ while (current != null) {
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/kousi24/super-dream-training/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/kousi24/super-dream-training/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kousi24/super-dream-training/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -524,6 +528,10 @@ while (current != null) {
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kousi24/super-dream-training/tree/master/0455-assign-cookies) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
 
 
