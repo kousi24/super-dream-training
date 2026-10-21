@@ -166,6 +166,7 @@ while (current != null) {
 | [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/kousi24/super-dream-training/tree/master/0427-construct-quad-tree) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/kousi24/super-dream-training/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kousi24/super-dream-training/tree/master/0525-contiguous-array) |
@@ -189,6 +190,7 @@ while (current != null) {
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
+| [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/kousi24/super-dream-training/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
@@ -311,6 +313,7 @@ while (current != null) {
 | [0412-fizz-buzz](https://github.com/kousi24/super-dream-training/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kousi24/super-dream-training/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/kousi24/super-dream-training/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0507-perfect-number](https://github.com/kousi24/super-dream-training/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kousi24/super-dream-training/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kousi24/super-dream-training/tree/master/0523-continuous-subarray-sum) |
