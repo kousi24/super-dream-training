@@ -214,6 +214,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+| [0385-mini-parser](https://github.com/kousi24/super-dream-training/tree/master/0385-mini-parser) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kousi24/super-dream-training/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kousi24/super-dream-training/tree/master/0412-fizz-buzz) |
@@ -277,6 +278,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0385-mini-parser](https://github.com/kousi24/super-dream-training/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/kousi24/super-dream-training/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
@@ -478,6 +480,7 @@ while (current != null) {
 ## Stack
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/kousi24/super-dream-training/tree/master/0385-mini-parser) |
 | [0445-add-two-numbers-ii](https://github.com/kousi24/super-dream-training/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kousi24/super-dream-training/tree/master/1003-check-if-word-is-valid-after-substitutions) |
