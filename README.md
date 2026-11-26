@@ -192,6 +192,7 @@ while (current != null) {
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kousi24/super-dream-training/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/kousi24/super-dream-training/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
@@ -214,6 +215,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+| [0383-ransom-note](https://github.com/kousi24/super-dream-training/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/kousi24/super-dream-training/tree/master/0385-mini-parser) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kousi24/super-dream-training/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
@@ -254,6 +256,7 @@ while (current != null) {
 | ------- |
 | [0169-majority-element](https://github.com/kousi24/super-dream-training/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kousi24/super-dream-training/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/kousi24/super-dream-training/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
