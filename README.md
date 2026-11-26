@@ -279,6 +279,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0385-mini-parser](https://github.com/kousi24/super-dream-training/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/kousi24/super-dream-training/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/kousi24/super-dream-training/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
@@ -302,6 +303,7 @@ while (current != null) {
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/kousi24/super-dream-training/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
