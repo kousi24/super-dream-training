@@ -156,6 +156,7 @@ while (current != null) {
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kousi24/super-dream-training/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
@@ -291,6 +292,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
 ## Trie
@@ -325,6 +327,7 @@ while (current != null) {
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/kousi24/super-dream-training/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kousi24/super-dream-training/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -498,6 +501,7 @@ while (current != null) {
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/kousi24/super-dream-training/tree/master/0398-random-pick-index) |
 ## Binary Indexed Tree
 |  |
