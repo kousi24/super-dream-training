@@ -229,6 +229,7 @@ while (current != null) {
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/kousi24/super-dream-training/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/kousi24/super-dream-training/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/kousi24/super-dream-training/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/kousi24/super-dream-training/tree/master/0500-keyboard-row) |
@@ -341,6 +342,7 @@ while (current != null) {
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/kousi24/super-dream-training/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kousi24/super-dream-training/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/kousi24/super-dream-training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
