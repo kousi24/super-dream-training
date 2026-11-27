@@ -266,6 +266,7 @@ while (current != null) {
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kousi24/super-dream-training/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
@@ -334,6 +335,7 @@ while (current != null) {
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kousi24/super-dream-training/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/kousi24/super-dream-training/tree/master/0398-random-pick-index) |
@@ -549,6 +551,14 @@ while (current != null) {
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kousi24/super-dream-training/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kousi24/super-dream-training/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kousi24/super-dream-training/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
 
 
