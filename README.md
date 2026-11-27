@@ -350,6 +350,7 @@ while (current != null) {
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kousi24/super-dream-training/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/kousi24/super-dream-training/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kousi24/super-dream-training/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/kousi24/super-dream-training/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/kousi24/super-dream-training/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kousi24/super-dream-training/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -404,6 +405,7 @@ while (current != null) {
 | [0374-guess-number-higher-or-lower](https://github.com/kousi24/super-dream-training/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kousi24/super-dream-training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/kousi24/super-dream-training/tree/master/0441-arranging-coins) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kousi24/super-dream-training/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kousi24/super-dream-training/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/kousi24/super-dream-training/tree/master/0456-132-pattern) |
