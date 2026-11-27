@@ -169,6 +169,7 @@ while (current != null) {
 | [0414-third-maximum-number](https://github.com/kousi24/super-dream-training/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kousi24/super-dream-training/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/kousi24/super-dream-training/tree/master/0427-construct-quad-tree) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kousi24/super-dream-training/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/kousi24/super-dream-training/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kousi24/super-dream-training/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -201,6 +202,7 @@ while (current != null) {
 | [0424-longest-repeating-character-replacement](https://github.com/kousi24/super-dream-training/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kousi24/super-dream-training/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/kousi24/super-dream-training/tree/master/0433-minimum-genetic-mutation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kousi24/super-dream-training/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/kousi24/super-dream-training/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kousi24/super-dream-training/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kousi24/super-dream-training/tree/master/0451-sort-characters-by-frequency) |
@@ -250,6 +252,7 @@ while (current != null) {
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kousi24/super-dream-training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/kousi24/super-dream-training/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/kousi24/super-dream-training/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kousi24/super-dream-training/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kousi24/super-dream-training/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kousi24/super-dream-training/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kousi24/super-dream-training/tree/master/0455-assign-cookies) |
