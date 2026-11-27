@@ -156,6 +156,7 @@ while (current != null) {
 | [0212-word-search-ii](https://github.com/kousi24/super-dream-training/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kousi24/super-dream-training/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kousi24/super-dream-training/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/kousi24/super-dream-training/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/kousi24/super-dream-training/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
@@ -267,6 +268,7 @@ while (current != null) {
 | ------- |
 | [0198-house-robber](https://github.com/kousi24/super-dream-training/tree/master/0198-house-robber) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/kousi24/super-dream-training/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/kousi24/super-dream-training/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/kousi24/super-dream-training/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/kousi24/super-dream-training/tree/master/0403-frog-jump) |
@@ -422,6 +424,7 @@ while (current != null) {
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/kousi24/super-dream-training/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/kousi24/super-dream-training/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/kousi24/super-dream-training/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/kousi24/super-dream-training/tree/master/0410-split-array-largest-sum) |
